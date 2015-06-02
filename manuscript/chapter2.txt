@@ -1,4 +1,4 @@
-# Chapter 2
+# Standard 2D/3D Approaches
 
 It was a **bold** and *italic* night!
 

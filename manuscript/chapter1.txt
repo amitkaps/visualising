@@ -1,3 +1,29 @@
-# Chapter 1
+# Introduction
 
-Hello, world!
+Even though exploring data visually is an integral part of the data analytic pipeline, we struggle to visually explore data once the number of dimensions go beyond three. This talk will focus on showcasing techniques to visually explore multi dimensional data (p > 3). The aim would be show examples of each of following techniques, potentially using one exemplar dataset.
+
+## Approaches to Multi-Variable Visualisation
+
+### Standard 2D/3D Approaches
+1. Aesthetics e.g. Color, Size, Shape
+2. Small Multiples e.g. Trellis / Facets
+3. Matrices Views e.g. SPLOMs
+4. 3D Scatterplot
+5. Geometric Transformation Approaches
+
+### Alternate Coordinates e.g. Parallel, Star
+1. Projections e.g. Dimensionality Reduction
+2. Tablelens
+
+### Glyph based Approaches
+1. Star glyphs
+2. Stick Figures
+
+### Pixel based Approaches
+1. Pixel bar charts
+2. Space filling curves
+
+### Stacked based Approaches
+1. Dimensional Stacking
+2. Hierarchical Axis
+3. Treemaps
